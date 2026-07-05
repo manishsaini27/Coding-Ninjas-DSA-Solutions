@@ -1,0 +1,1 @@
+#find the total number of accurance in a array .
